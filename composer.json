@@ -1,6 +1,6 @@
 {
     "name": "ansien/symfony-ag-grid-bundle",
-    "description": "Bundle to easily integrate Ag-Grid into your Symfony application."
+    "description": "Bundle to easily integrate Ag-Grid into your Symfony application.",
     "type": "symfony-bundle",
     "autoload": {
         "psr-4": {
