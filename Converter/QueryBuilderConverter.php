@@ -1,11 +1,11 @@
 <?php
 
-namespace Skrepr\SymfonyAgGridBundle\Converter;
+namespace Ansien\SymfonyAgGridBundle\Converter;
 
 use Doctrine\ORM\QueryBuilder;
-use Skrepr\SymfonyAgGridBundle\Data\Filter\OrderByPart;
-use Skrepr\SymfonyAgGridBundle\Data\Filter\WherePart;
-use Skrepr\SymfonyAgGridBundle\Data\Grid\GridBuilder;
+use Ansien\SymfonyAgGridBundle\Data\Filter\OrderByPart;
+use Ansien\SymfonyAgGridBundle\Data\Filter\WherePart;
+use Ansien\SymfonyAgGridBundle\Data\Grid\GridBuilder;
 
 class QueryBuilderConverter implements ConverterInterface
 {

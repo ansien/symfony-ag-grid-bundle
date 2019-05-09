@@ -1,10 +1,10 @@
 <?php
 
-namespace Skrepr\SymfonyAgGridBundle\Handler;
+namespace Ansien\SymfonyAgGridBundle\Handler;
 
-use Skrepr\SymfonyAgGridBundle\Data\Filter\FilterParts;
-use Skrepr\SymfonyAgGridBundle\Data\Grid\GridInterface;
-use Skrepr\SymfonyAgGridBundle\Data\ServerSideGetRowsRequest;
+use Ansien\SymfonyAgGridBundle\Data\Filter\FilterParts;
+use Ansien\SymfonyAgGridBundle\Data\Grid\GridInterface;
+use Ansien\SymfonyAgGridBundle\Data\ServerSideGetRowsRequest;
 
 class FilterHandler
 {

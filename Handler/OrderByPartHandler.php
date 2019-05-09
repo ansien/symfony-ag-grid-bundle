@@ -1,10 +1,10 @@
 <?php
 
-namespace Skrepr\SymfonyAgGridBundle\Handler;
+namespace Ansien\SymfonyAgGridBundle\Handler;
 
-use Skrepr\SymfonyAgGridBundle\Data\Filter\OrderByPart;
-use Skrepr\SymfonyAgGridBundle\Data\Grid\GridInterface;
-use Skrepr\SymfonyAgGridBundle\Util\GridMapper;
+use Ansien\SymfonyAgGridBundle\Data\Filter\OrderByPart;
+use Ansien\SymfonyAgGridBundle\Data\Grid\GridInterface;
+use Ansien\SymfonyAgGridBundle\Util\GridMapper;
 
 class OrderByPartHandler
 {

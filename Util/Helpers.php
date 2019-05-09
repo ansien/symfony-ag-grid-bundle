@@ -1,14 +1,10 @@
 <?php
 
-namespace Skrepr\SymfonyAgGridBundle\Util;
+namespace Ansien\SymfonyAgGridBundle\Util;
 
 class Helpers
 {
-    /**
-     * @param $string
-     * @param bool $capitalizeFirstCharacter
-     */
-    public static function snakeToCamelCase($string, $capitalizeFirstCharacter = false)
+    public static function snakeToCamelCase(string $string, bool $capitalizeFirstCharacter = false): string
     {
         $str = str_replace(' ', '', ucwords(str_replace('_', ' ', $string)));
 

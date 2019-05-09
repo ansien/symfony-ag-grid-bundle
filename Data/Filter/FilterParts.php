@@ -1,6 +1,6 @@
 <?php
 
-namespace Skrepr\SymfonyAgGridBundle\Data\Filter;
+namespace Ansien\SymfonyAgGridBundle\Data\Filter;
 
 class FilterParts
 {

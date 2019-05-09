@@ -1,8 +1,8 @@
 <?php
 
-namespace Skrepr\SymfonyAgGridBundle\Util;
+namespace Ansien\SymfonyAgGridBundle\Util;
 
-use Skrepr\SymfonyAgGridBundle\Data\ServerSideGetRowsRequest;
+use Ansien\SymfonyAgGridBundle\Data\ServerSideGetRowsRequest;
 
 final class RequestConverter
 {

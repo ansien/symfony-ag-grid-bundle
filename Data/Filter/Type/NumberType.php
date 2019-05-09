@@ -1,6 +1,6 @@
 <?php
 
-namespace Skrepr\SymfonyAgGridBundle\Data\Filter\Type;
+namespace Ansien\SymfonyAgGridBundle\Data\Filter\Type;
 
 class NumberType extends Type
 {

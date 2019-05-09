@@ -1,6 +1,6 @@
 <?php
 
-namespace Skrepr\SymfonyAgGridBundle\Data\Grid;
+namespace Ansien\SymfonyAgGridBundle\Data\Grid;
 
 use Symfony\Component\HttpFoundation\JsonResponse;
 

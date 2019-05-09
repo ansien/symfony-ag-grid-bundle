@@ -1,11 +1,11 @@
 <?php
 
-namespace Skrepr\SymfonyAgGridBundle\Data\Grid;
+namespace Ansien\SymfonyAgGridBundle\Data\Grid;
 
-use Skrepr\SymfonyAgGridBundle\Data\Filter\FilterParts;
-use Skrepr\SymfonyAgGridBundle\Data\ServerSideGetRowsRequest;
-use Skrepr\SymfonyAgGridBundle\Handler\FilterHandler;
-use Skrepr\SymfonyAgGridBundle\Util\RequestConverter;
+use Ansien\SymfonyAgGridBundle\Data\Filter\FilterParts;
+use Ansien\SymfonyAgGridBundle\Data\ServerSideGetRowsRequest;
+use Ansien\SymfonyAgGridBundle\Handler\FilterHandler;
+use Ansien\SymfonyAgGridBundle\Util\RequestConverter;
 use Symfony\Component\HttpFoundation\Request;
 
 class GridBuilder

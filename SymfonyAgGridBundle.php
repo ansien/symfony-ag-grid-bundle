@@ -1,10 +1,10 @@
 <?php
 
-namespace Skrepr\SymfonyAgGridBundle;
+namespace Ansien\SymfonyAgGridBundle;
 
-use Skrepr\SymfonyAgGridBundle\CompilerPass\ConverterCompilerPass;
-use Skrepr\SymfonyAgGridBundle\CompilerPass\FilterTypeCompilerPass;
-use Skrepr\SymfonyAgGridBundle\CompilerPass\GridCompilerPass;
+use Ansien\SymfonyAgGridBundle\CompilerPass\ConverterCompilerPass;
+use Ansien\SymfonyAgGridBundle\CompilerPass\FilterTypeCompilerPass;
+use Ansien\SymfonyAgGridBundle\CompilerPass\GridCompilerPass;
 use Symfony\Component\DependencyInjection\ContainerBuilder;
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 

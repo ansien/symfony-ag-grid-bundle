@@ -1,6 +1,6 @@
 <?php
 
-namespace Skrepr\SymfonyAgGridBundle\Converter;
+namespace Ansien\SymfonyAgGridBundle\Converter;
 
 interface ConverterInputInterface
 {

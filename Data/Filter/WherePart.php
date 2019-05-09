@@ -1,8 +1,8 @@
 <?php
 
-namespace Skrepr\SymfonyAgGridBundle\Data\Filter;
+namespace Ansien\SymfonyAgGridBundle\Data\Filter;
 
-use Skrepr\SymfonyAgGridBundle\Data\Filter\Type\Type;
+use Ansien\SymfonyAgGridBundle\Data\Filter\Type\Type;
 
 class WherePart
 {

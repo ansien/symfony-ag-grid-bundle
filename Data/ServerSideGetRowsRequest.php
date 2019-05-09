@@ -1,8 +1,8 @@
 <?php
 
-namespace Skrepr\SymfonyAgGridBundle\Data;
+namespace Ansien\SymfonyAgGridBundle\Data;
 
-use Skrepr\SymfonyAgGridBundle\Data\Grid\GridColumnVO;
+use Ansien\SymfonyAgGridBundle\Data\Grid\GridColumnVO;
 
 class ServerSideGetRowsRequest
 {
@@ -37,7 +37,7 @@ class ServerSideGetRowsRequest
     private $filterModel;
 
     /**
-     * @var ?
+     * @var
      */
     private $sortModel;
 

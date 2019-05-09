@@ -1,9 +1,9 @@
 <?php
 
-namespace Skrepr\SymfonyAgGridBundle\Data\Filter\Converter;
+namespace Ansien\SymfonyAgGridBundle\Data\Filter\Converter;
 
-use Skrepr\SymfonyAgGridBundle\Data\Filter\Type\TextType;
-use Skrepr\SymfonyAgGridBundle\Data\Filter\Type\Type;
+use Ansien\SymfonyAgGridBundle\Data\Filter\Type\TextType;
+use Ansien\SymfonyAgGridBundle\Data\Filter\Type\Type;
 
 class TextTypeConverter implements TypeConverterInterface
 {

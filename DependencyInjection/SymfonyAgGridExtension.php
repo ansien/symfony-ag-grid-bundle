@@ -1,6 +1,6 @@
 <?php
 
-namespace Skrepr\SymfonyAgGridBundle\DependencyInjection;
+namespace Ansien\SymfonyAgGridBundle\DependencyInjection;
 
 use Symfony\Component\Config\FileLocator;
 use Symfony\Component\DependencyInjection\ContainerBuilder;

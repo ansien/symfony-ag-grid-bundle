@@ -1,8 +1,8 @@
 <?php
 
-namespace Skrepr\SymfonyAgGridBundle\Converter;
+namespace Ansien\SymfonyAgGridBundle\Converter;
 
-use Skrepr\SymfonyAgGridBundle\Data\Grid\GridBuilder;
+use Ansien\SymfonyAgGridBundle\Data\Grid\GridBuilder;
 
 interface ConverterInterface
 {

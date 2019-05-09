@@ -1,12 +1,12 @@
 <?php
 
-namespace Skrepr\SymfonyAgGridBundle\Handler;
+namespace Ansien\SymfonyAgGridBundle\Handler;
 
-use Skrepr\SymfonyAgGridBundle\Context\FilterTypeConverterContext;
-use Skrepr\SymfonyAgGridBundle\Data\Filter\Type\Type;
-use Skrepr\SymfonyAgGridBundle\Data\Filter\WherePart;
-use Skrepr\SymfonyAgGridBundle\Data\Grid\GridInterface;
-use Skrepr\SymfonyAgGridBundle\Util\GridMapper;
+use Ansien\SymfonyAgGridBundle\Context\FilterTypeConverterContext;
+use Ansien\SymfonyAgGridBundle\Data\Filter\Type\Type;
+use Ansien\SymfonyAgGridBundle\Data\Filter\WherePart;
+use Ansien\SymfonyAgGridBundle\Data\Grid\GridInterface;
+use Ansien\SymfonyAgGridBundle\Util\GridMapper;
 
 class WherePartHandler
 {

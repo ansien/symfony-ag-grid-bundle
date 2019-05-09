@@ -1,11 +1,11 @@
 <?php
 
-namespace Skrepr\SymfonyAgGridBundle\Handler;
+namespace Ansien\SymfonyAgGridBundle\Handler;
 
 use Doctrine\ORM\QueryBuilder;
-use Skrepr\SymfonyAgGridBundle\Data\Filter\FilterParts;
-use Skrepr\SymfonyAgGridBundle\Data\Filter\OrderByPart;
-use Skrepr\SymfonyAgGridBundle\Data\Filter\WherePart;
+use Ansien\SymfonyAgGridBundle\Data\Filter\FilterParts;
+use Ansien\SymfonyAgGridBundle\Data\Filter\OrderByPart;
+use Ansien\SymfonyAgGridBundle\Data\Filter\WherePart;
 
 /**
  * @todo createSelectExpressions()

@@ -1,8 +1,8 @@
 <?php
 
-namespace Skrepr\SymfonyAgGridBundle\Util;
+namespace Ansien\SymfonyAgGridBundle\Util;
 
-use Skrepr\SymfonyAgGridBundle\Data\Grid\GridInterface;
+use Ansien\SymfonyAgGridBundle\Data\Grid\GridInterface;
 
 final class GridMapper
 {

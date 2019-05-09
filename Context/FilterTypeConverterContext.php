@@ -1,8 +1,8 @@
 <?php
 
-namespace Skrepr\SymfonyAgGridBundle\Context;
+namespace Ansien\SymfonyAgGridBundle\Context;
 
-use Skrepr\SymfonyAgGridBundle\Data\Filter\Converter\TypeConverterInterface;
+use Ansien\SymfonyAgGridBundle\Data\Filter\Converter\TypeConverterInterface;
 
 class FilterTypeConverterContext
 {

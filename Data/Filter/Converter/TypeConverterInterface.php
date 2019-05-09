@@ -1,8 +1,8 @@
 <?php
 
-namespace Skrepr\SymfonyAgGridBundle\Data\Filter\Converter;
+namespace Ansien\SymfonyAgGridBundle\Data\Filter\Converter;
 
-use Skrepr\SymfonyAgGridBundle\Data\Filter\Type\Type;
+use Ansien\SymfonyAgGridBundle\Data\Filter\Type\Type;
 
 interface TypeConverterInterface
 {
