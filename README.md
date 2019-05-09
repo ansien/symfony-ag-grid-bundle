@@ -1,3 +1,12 @@
 # Symfony Ag-Grid Bundle
 
-TODO
+## Installation
+``
+composer require ansien/symfony-ag-grid-bundle
+``
+
+## Usage
+
+# TODO
+- Tests
+- Write a better README.
