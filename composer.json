@@ -1,0 +1,12 @@
+{
+    "name": "skrepr/symfony-ag-grid-bundle",
+    "type": "symfony-bundle",
+    "autoload": {
+        "psr-4": {
+            "Skrepr\\SymfonyAgGridBundle\\": ""
+        }
+    },
+    "require": {
+        "php": ">=7.2.0"
+    }
+}
