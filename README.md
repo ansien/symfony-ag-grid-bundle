@@ -8,5 +8,5 @@ composer require ansien/symfony-ag-grid-bundle
 ## Usage
 
 # TODO
-- Tests
+- Write tests
 - Write a better README.
