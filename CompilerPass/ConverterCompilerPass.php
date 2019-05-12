@@ -1,6 +1,6 @@
 <?php
 
-namespace SymfonyAgGridBundle\CompilerPass;
+namespace Ansien\SymfonyAgGridBundle\CompilerPass;
 
 use Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface;
 use Symfony\Component\DependencyInjection\ContainerBuilder;
