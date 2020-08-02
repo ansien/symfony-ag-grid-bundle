@@ -1,6 +1,6 @@
-# Symfony Ag-Grid Bundle
-
 **Warning: This package is abandoned and no longer maintained.**
+
+# Symfony Ag-Grid Bundle
 
 ## Installation
 ``
